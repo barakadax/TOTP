@@ -39,3 +39,5 @@ uv pip freeze > requirements.txt
 # Format the code PEP8 style:
 ruff format .
 ```
+
+### Was tested in Ubuntu 24.04.2 LTS with Python 3.12.3
